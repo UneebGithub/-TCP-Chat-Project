@@ -1,0 +1,10 @@
+!username [name]   - Set your username
+!who               - Show online users
+!time              - Show server time
+!about             - Show info about this app
+!commands / !help  - Show all commands
+!mods              - Show list of moderators
+!mod [user]        - Promote/demote moderator (mod only)
+!kick [user]       - Kick a user from chat (mod only)
+!me [msg]          - Send an emote message
+!rename [newname]  - Change your username";

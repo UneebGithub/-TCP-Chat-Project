@@ -1,0 +1,16 @@
+D:\Web\Projecttesting\Projecttesting\bin\Debug\Projecttesting.exe.config
+D:\Web\Projecttesting\Projecttesting\bin\Debug\Projecttesting.exe
+D:\Web\Projecttesting\Projecttesting\bin\Debug\Projecttesting.pdb
+D:\Web\Projecttesting\Projecttesting\obj\Debug\Projecttesting.csproj.AssemblyReference.cache
+D:\Web\Projecttesting\Projecttesting\obj\Debug\Projecttesting.csproj.CoreCompileInputs.cache
+D:\Web\Projecttesting\Projecttesting\obj\Debug\Projecttesting.exe
+D:\Web\Projecttesting\Projecttesting\obj\Debug\Projecttesting.pdb
+D:\Web\Projecttesting\Projecttesting\obj\Debug\Projecttesting.exe.config
+D:\Web\Assignment01\Projecttesting\Projecttesting\bin\Debug\Projecttesting.exe.config
+D:\Web\Assignment01\Projecttesting\Projecttesting\bin\Debug\Projecttesting.exe
+D:\Web\Assignment01\Projecttesting\Projecttesting\bin\Debug\Projecttesting.pdb
+D:\Web\Assignment01\Projecttesting\Projecttesting\obj\Debug\Projecttesting.csproj.AssemblyReference.cache
+D:\Web\Assignment01\Projecttesting\Projecttesting\obj\Debug\Projecttesting.exe.config
+D:\Web\Assignment01\Projecttesting\Projecttesting\obj\Debug\Projecttesting.csproj.CoreCompileInputs.cache
+D:\Web\Assignment01\Projecttesting\Projecttesting\obj\Debug\Projecttesting.exe
+D:\Web\Assignment01\Projecttesting\Projecttesting\obj\Debug\Projecttesting.pdb

@@ -1,0 +1,16 @@
+D:\Web\Client\Client\bin\Debug\Client.exe.config
+D:\Web\Client\Client\bin\Debug\Client.exe
+D:\Web\Client\Client\bin\Debug\Client.pdb
+D:\Web\Client\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\Web\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\Web\Client\Client\obj\Debug\Client.exe
+D:\Web\Client\Client\obj\Debug\Client.pdb
+D:\Web\Client\Client\obj\Debug\Client.exe.config
+D:\Web\Assignment01\Client\Client\bin\Debug\Client.exe.config
+D:\Web\Assignment01\Client\Client\bin\Debug\Client.exe
+D:\Web\Assignment01\Client\Client\bin\Debug\Client.pdb
+D:\Web\Assignment01\Client\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\Web\Assignment01\Client\Client\obj\Debug\Client.exe.config
+D:\Web\Assignment01\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\Web\Assignment01\Client\Client\obj\Debug\Client.exe
+D:\Web\Assignment01\Client\Client\obj\Debug\Client.pdb
